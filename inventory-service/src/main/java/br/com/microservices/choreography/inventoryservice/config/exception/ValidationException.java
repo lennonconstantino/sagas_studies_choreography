@@ -1,4 +1,4 @@
-package br.com.microservices.orchestrated.inventoryservice.config.exception;
+package br.com.microservices.choreography.inventoryservice.config.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

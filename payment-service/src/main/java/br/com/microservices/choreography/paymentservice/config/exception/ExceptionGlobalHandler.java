@@ -1,4 +1,4 @@
-package br.com.microservices.orchestrated.paymentservice.config.exception;
+package br.com.microservices.choreography.paymentservice.config.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
